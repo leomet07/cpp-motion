@@ -1,0 +1,10 @@
+x64/
+*.vcxproj
+*.mp4
+
+*.vcxprog.*
+
+
+*.filters
+
+*.user
